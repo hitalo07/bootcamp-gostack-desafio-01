@@ -8,7 +8,7 @@
   "author": "Hitalo Cunha de Sousa <hitalocunhadesousa@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   },
   "devDependencies": {
     "nodemon": "^1.19.1"
